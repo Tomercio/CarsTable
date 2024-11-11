@@ -19,6 +19,6 @@ This is a Next.js project built with TypeScript and Tailwind CSS, designed to di
 
 
 
-- I Would love to hear your feedback, Let me know if you would do something different.
-#Let's Connect !
+# I Would love to hear your feedback, Let me know if you would do something different.
+## Let's Connect !
 
