@@ -16,5 +16,9 @@ This is a Next.js project built with TypeScript and Tailwind CSS, designed to di
 - **TypeScript**: Adds type safety to the code, making it easier to work with and reducing bugs.
 - **Tailwind CSS**: Utility-first CSS framework for building custom designs quickly and responsively.
 
-## I Would love to hear your feedback, Let's Connect !
+
+
+
+- I Would love to hear your feedback, Let me know if you would do something different.
+#Let's Connect !
 
